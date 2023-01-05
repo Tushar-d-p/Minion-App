@@ -1,0 +1,1 @@
+This is Translation App that translates English language to minion language which is used by minion people.
